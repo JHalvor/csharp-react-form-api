@@ -1,16 +1,6 @@
 # C# Server for the React Controlled Form
 
-Simple full stack example 
-[React Controlled Forms](https://github.com/uerbzr/teachingReactControlledForms)  
+Two repositories to show a simple full stack application. Front end is a React Form and back, a .Net webapi in C# with an in memory database.
 
-[React Controlled Forms Server](https://github.com/uerbzr/teachingReactControlledFormsSERVER)  
-
-```
-This repository is a .Net WebApi project which accepts the React Controlled Form in the repo mentioned above.
-
-
-
-
-```
-
-
+[React Controlled Forms](https://github.com/boolean-uk/csharp-react-form)  
+[React Controlled Forms Server](https://github.com/boolean-uk/csharp-react-form-server)
